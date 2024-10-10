@@ -3,6 +3,7 @@
 #launch.json folder
 .vscode/
 .graphqlvenv/
+graphqlvenv/
 #Cache folder
 .alcache/
 #Symbols folder
